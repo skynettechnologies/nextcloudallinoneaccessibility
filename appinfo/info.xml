@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	  xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+	<id>nextcloudallinoneaccessibility</id>
+	<name>All In One Accessibility Demo</name>
+	<summary>All in one accessibility</summary>
+	<description>All in one accessibility</description>
+	<version>1.0.0</version>
+	<licence>agpl</licence>
+	<author mail="skydev6525@mailinator.com" homepage="https://skynetcpanel.skynettechnologies.us/">Skynet Development</author>
+	<namespace>NextcloudAllInOneAccessibility</namespace>
+	<types>
+		<filesystem/>
+	</types>
+	<category>files</category>
+	<bugs>https://skynetcpanel.skynettechnologies.us/</bugs>
+	<dependencies>
+		<nextcloud min-version="29" max-version="29"/>
+	</dependencies>
+	<navigations>
+		<navigation>
+			<id>nextcloudallinoneaccessibility</id>
+			<name>All In One Accessibility Demo</name>
+			<route>nextcloudallinoneaccessibility.page.index</route>
+			<icon>app.svg</icon>
+			<type>link</type>
+		</navigation>
+	</navigations>
+	<settings>
+		<admin>OCA\NextcloudAllInOneAccessibility\Settings\Admin</admin>
+		<admin-section>OCA\NextcloudAllInOneAccessibility\Settings\Section</admin-section>
+	</settings>
+</info>

@@ -1,4 +1,4 @@
-# All in One Accessibility®: NextCloud Plugin
+# All in One Accessibility®: NextCloud app
 
 ## Enhance Your Website's Accessibility with All in One Accessibility®
 

@@ -1,5 +1,5 @@
 <?php
-namespace OCA\NextcloudAllInOneAccessibility\Settings;
+namespace OCA\AllInOneAccessibilityApp\Settings;
 
 use OCP\AppFramework\Http\TemplateResponse;
 use OCP\IConfig;

@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace OCA\NextcloudAllInOneAccessibility\Controller;
+namespace OCA\AllInOneAccessibilityApp\Controller;
 
-use OCA\NextcloudAllInOneAccessibility\AppInfo\Application;
+use OCA\AllInOneAccessibilityApp\AppInfo\Application;
 use OCP\AppFramework\Controller;
 use OCP\AppFramework\Http\Attribute\FrontpageRoute;
 use OCP\AppFramework\Http\Attribute\NoAdminRequired;

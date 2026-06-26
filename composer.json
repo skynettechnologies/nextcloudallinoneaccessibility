@@ -1,17 +1,17 @@
 {
-	"name": "nextcloud/nextcloudallinoneaccessibility",
-	"description": "All in one accessibility",
+	"name": "skynettechnologies/allinoneaccessibilityapp",
+	"description": "Quick Web Accessibility Implementation with All in One Accessibility!",
 	"license": "AGPL-3.0-or-later",
 	"authors": [
 		{
-			"name": "Skynet Development",
-			"email": "skydev6525@mailinator.com",
-			"homepage": "https://skynetcpanel.skynettechnologies.us/"
+			"name": "Skynet Technologies USA LLC",	
+			"email": "developer3@skynettechnologies.com",		
+			"homepage": "https://www.skynettechnologies.com"
 		}
 	],
 	"autoload": {
 		"psr-4": {
-			"OCA\\NextcloudAllInOneAccessibility\\": "lib/"
+			"OCA\\AllInOneAccessibilityApp\\": "lib/"
 		}
 	},
 	"scripts": {

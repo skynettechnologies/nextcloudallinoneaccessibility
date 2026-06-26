@@ -1,228 +1,165 @@
-# All in One Accessibility®: NextCloud Plugin
+# **All in One Accessibility® - NextCloud App**
 
-## Enhance Your Website's Accessibility with All in One Accessibility®
+## **Free WCAG, ADA, EAA accessibility app for NextCloud websites!**
 
-**Did you know?** Your website's accessibility can make or break your audience's experience. With the **All in One Accessibility AI Free Accessibility Widget**, you can instantly boost your site's inclusivity and support over **190+ languages**! Experience the power of **23 essential features** in our free version and take the first step towards creating a better web for everyone.
+This [Free NextCloud accessibility app](https://www.skynettechnologies.com/all-in-one-accessibility) - adds an accessible experience for users with visual, auditory, motor, or cognitive disabilities. It supports assistive technologies, offers customizable updates, and enhances overall usability according to WCAG 2.1, 2.2, ADA, EAA, Section 508, France RGAA, California Unruh, European EAA EN 301 549, UK Equality Act, Spain UNE 139803:2012, Australian DDA, Israeli Standard 5568, Ontario AODA, Canada ACA, German BITV, Brazilian Inclusion Law (LBI 13.146/2015), JIS X 8341 (Japan), Italian Stanca Act, Indian RPwD Act, Switzerland DDA and other [accessibility standards](https://www.skynettechnologies.com/accessibility-standards).
 
-### Why All in One Accessibility®?
+This [free accessibility widget](https://www.skynettechnologies.com/free-website-accessibility-widget) quickly add essential accessibility features through a lightweight, easy to install solution that supports inclusive browsing and compliance efforts.
 
-This lightweight and flexible widget is designed to improve your website’s compliance with **international accessibility standards**, including:
+**Core Features - What you get with free accessibility NextCloud widget?**
 
-### **International Standards**
+- Auto-detect language
+- Supports 190+ multi-languages.
+- Skip to Navigation / Content / Footer
+- Content Adjustment Options
+- Visual & Color Adjustments
+- Dynamic free NextCloud accessibility module customization including colors, size, icon, and position
+- Reading mask
+- Accessibility statement
 
-- **WCAG 2.0, 2.1, & 2.2** (Web Content Accessibility Guidelines)  
-- **ATAG 2.0** (Authoring Tool Accessibility Guidelines)  
-- **PDF/UA – ISO 14289** (Accessible PDF Format)
+Explore the [free accessibility widget features guide](https://www.skynettechnologies.com/sites/default/files/Free-Accessibility-Widget-Features-Guide.pdf).
 
-### **United States**
-- **ADA (Americans with Disabilities Act)**  
-- **ADA Title III Website Accessibility**  
-- **Section 508 (U.S. Government Standard)**  
-- **California Unruh Civil Rights Act**  
-- **Texas Website Accessibility Compliance**  
-- **Florida Website Compliance**  
-- **Colorado Accessibility Law**  
-- **Kentucky Web Accessibility**  
-- **New York State Web Accessibility Policy**  
-- **Arizona ADA Compliance**  
-- **Connecticut ADA Web Accessibility**  
-- **Indiana Digital Accessibility**  
-- **Nevada ADA Compliance Requirements**  
-- **Georgia Website ADA Compliance**  
-- **Ohio ADA Compliance**  
-- **Michigan ADA Compliance**  
-- **Virginia Web Accessibility Legislation**  
-- **Kansas ADA Compliance**  
-- **Washington State ADA Compliance**
+**This free accessibility NextCloud app is a great fit for:**
 
-### **Canada**
-- **AODA (Accessibility for Ontarians with Disabilities Act)**  
-- **ACA (Accessible Canada Act)**
+- Businesses, developers, agencies, content teams, ecommerce brands, educational institutions, and public-facing organizations using NextCloud who want to improve WCAG accessibility, usability, and user experience quickly without complex development.
 
-### **United Kingdom**
-- **UK Equality Act (EA)**
+**Why select free NextCloud WCAG accessibility module - All in One Accessibility?**
 
-### **European Union**
-- **EAA / EN 301 549 Accessibility**  
-- **EN 301 549 v4.1.1**
+- Supports alignment with global accessibility standards
+- Improves usability for users with visual, cognitive, and motor impairments.
+- Integrates smoothly with most NextCloud themes.
+- Supports 190 plus multi languages and multisite for global accessibility reach.
+- Available at no cost for core accessibility features.
 
-### **France**
-- **RGAA (Référentiel Général d’Amélioration de l’Accessibilité)**
+### **SECURITY & PRIVACY NOTES**
 
-### **Germany**
-- **BITV (Barrierefreie-Informationstechnik-Verordnung)**
+- This Free Accessibility NextCloud module follows several data and application security practices, including ISO 9001:2015 & ISO 27001:2013, GDPR, CCPA, COPPA, HIPAA, and SOC 2 Type II.
+- Skynet Technologies USA LLC is an organizational member of IAAP and of W3C.
+- No personal data is intentionally stored by the module itself. Site owners are responsible for reviewing their own compliance requirements.
 
-### **Italy**
-- **Italian Stanca Act**
+### **LIMITATIONS**
 
-### **Spain**
-- **UNE 139803:2012**
+- Some advanced features require a commercial subscription.
 
-### **Austria**
-- **WZG (Austrian Web Accessibility Act)**
+For more details, visit [**NextCloud accessibility app**](https://www.skynettechnologies.com/all-in-one-accessibility)**.**
 
-### **Switzerland**
-- **Swiss Disability Discrimination Act (DDA)**
+## **FAQS**
 
-### **Sweden**
-- **Swedish Discrimination Act (2008:567)**
+**Is this AI accessibility extension compatible with NextCloud multisite?**
 
-### **Israel**
-- **IS 5568 (Israeli Standard)**
+Yes.
 
-### **Australia**
-- **Australian DDA (Disability Discrimination Act)**
+**Does this free NextCloud accessibility app support multilingual NextCloud sites?**
 
-### **India**
-- **RPD Act (Rights of Persons with Disabilities Act)**  
-- **GIGW 3.0 (Guidelines for Indian Government Websites)**
+Yes. It supports 190+ languages.
 
-### **Brazil**
-- **LBI 13.146/2015 (Brazilian Inclusion Law)**
+**Which NextCloud themes are supported by WCAG accessibility NextCloud app?**
 
-### **Mexico**
-- **ADA-Inspired Web Accessibility Compliance**
+Major NextCloud themes including ARCHITECT, Bonjour, Bootstrap 5 - Starter Kit, HOUSE OF CHAIRS, LOGIS, MALL, Scaffold, Tailwind, Vanilla, Vesperr and many more are supported All in One Accessibility®.
 
-### **Japan**
-- **JIS X 8341**
+**How can I upgrade from free to Paid NextCloud accessibility widget for upgrading accessibility features?**
 
-### **South Korea**
-- **KWCAG 2.1 (Korean Web Content Accessibility Guidelines)**
+Upgrade to Paid subscription with **70 plus advanced features** and take website's accessibility to the next level. Checkout the steps for upgrading [free to paid NextCloud accessibility widget](https://www.skynettechnologies.com/blog/upgrade-from-all-in-one-accessibility-free-widget-to-premium-version)**.**
 
-### **Singapore**
-- **DSS and SGDS (Design System and Digital Standards)**
+**What additional features are available in the paid version of NextCloud WCAG ADA EAA app?**
 
-### **Malaysia**
-- **PWD Act 2008 (Persons with Disabilities Act)**
+The paid version of NextCloud accessibility widget includes following features like screen reader, voice navigation, talk & type, virtual keyboard, accessibility profiles tailored for different users with disabilities group, Libras (Brazilian sign language), dictionary search, multi-language support (190+ languages), and many more. Pricing starts from \$25 / month. Explore more information about [accessibility widget](https://www.skynettechnologies.com/all-in-one-accessibility) and buy now.
 
-### **Thailand**
-- **PDA 2013 (Persons with Disabilities Empowerment Act)**
+### **Supported Languages (190+ Languages)**
 
-### **United Arab Emirates**
-- **UAE Disability Act (Federal Law No. 29 of 2006)**
+English (USA), English (UK), English (Australian), English (Canadian), English (South Africa), Español, Español (Mexicano), Deutsch, عربى, Português, Português (Brazil), 日本語, Français, Italiano, Polski, Pусский, 中文, 中文 (Traditional), עִברִית, Magyar, Slovenčina, Suomenkieli, Türkçe, Ελληνικά, Latinus, Български, Català, Čeština, Dansk, Nederlands, हिंदी, Bahasa Indonesia, 한국인, Lietuvių, Bahasa Melayu, Norsk, Română, Slovenščina, Svenska, แบบไทย, Українська, Việt Nam, বাঙালি, සිංහල, አማርኛ, Hmoob, မြန်မာ, Eesti keel, latviešu, Cрпски, Hrvatski, ქართული, ʻŌlelo Hawaiʻi, Cymraeg, Cebuano, Samoa, Kreyòl ayisyen, Føroyskt, Crnogorski, Azerbaijani, Euskara, Tagalog, Galego, Norsk Bokmål, فارسی, ਪੰਜਾਬੀ, shqiptare, Hայերեն, অসমীয়া, Aymara, Bamanankan, беларускі, bosanski, Corsu, ދިވެހި, Esperanto, Eʋegbe, Frisian, guarani, ગુજરાતી, Hausa, íslenskur, Igbo, Gaeilge, basa jawa, ಕನ್ನಡ, қазақ, ខ្មែរ, Kinyarwanda, Kurdî, Кыргызча, ພາສາລາວ, Lingala, Luganda, lëtzebuergesch, македонски, Malagasy, മലയാളം, Malti, Maori, मराठी, Монгол, नेपाली, Sea, ଓଡିଆ, Afaan Oromoo, پښتو, Runasimi, संस्कृत, Gàidhlig na h-Alba, Sesotho, Shona, سنڌي, Soomaali, basa Sunda, kiswahili, тоҷикӣ, தமிழ், Татар, తెలుగు, ትግሪኛ, Tsonga, Türkmenler, Ride, اردو, ئۇيغۇر, o'zbek, isiXhosa, יידיש, Yoruba, Zulu, भोजपुरी, डोगरी, कोंकणी, Kurdî, Krio, मैथिली, Meiteilon, Mizo tawng, Sepedi, Ilocano, دری
 
-For more details on supported accessibility laws and standards, visit  
-**[All in One Accessibility Supported Standards](https://www.skynettechnologies.com/accessibility-standards)**
+### **Installation Steps**
+## Install App
 
-By implementing the widget, you’re not only enhancing user experience but also minimizing the risk of costly accessibility lawsuits. For more details, visit **[All in One Accessibility®.](https://www.skynettechnologies.com/all-in-one-accessibility)**
-
-### Built for Excellence
-
-- Adheres to **ISO 9001:2015** & **ISO 27001:2022** standards.
-- Fully compliant with **GDPR** and **COPPA** regulations.
-- Proud member of **W3C** and the **International Association of Accessibility Professionals (IAAP)**.
-
-### Upgrade to Unlock Premium Features
-
-**Why stop at 23 features?** Unlock over **90+ advanced features** with our **paid subscription** and take your website’s accessibility to the next level. Compare the benefits of Free vs. Paid versions **[here](https://www.skynettechnologies.com/all-in-one-accessibility/features)**.
-
-Checkout the steps for upgrading **[Free to Paid Widget Upgrade Steps](https://www.skynettechnologies.com/blog/upgrade-all-in-one-accessibility-free-widget-to-paid-version#free-paid-version).**
-
-### Start Your Accessibility Journey Today
-
-Try it risk-free with our **10-day free trial**! Don’t wait, experience the benefits today. **[Click to get started](https://ada.skynettechnologies.us/trial-subscription?utm_source=all-in-one-accessibility&utm_medium=landing-page&utm_campaign=trial-subscription)** and join a growing community of forward-thinking businesses making the web accessible to everyone.
-
-**Your website’s accessibility journey begins here. Make an impact.**
-
-For more details, visit **[All in One Accessibility®](https://www.skynettechnologies.com/all-in-one-accessibility)** and transform your digital presence.
-
-### Supported Languages (190+ Languages)
-
-English (USA), English (UK), English (Australian), English (Canadian), English (South Africa), Español, Español (Mexicano), Deutsch, عربى, Português, Português (Brazil), 日本語, Français, Italiano, Polski, Pусский, 中文, 中文 (Traditional), עִברִית, Magyar, Slovenčina, Suomenkieli, Türkçe, Ελληνικά, Latinus, Български, Català, Čeština, Dansk, Nederlands, हिंदी, Bahasa Indonesia, 한국인, Lietuvių, Bahasa Melayu, Norsk, Română, Slovenščina, Svenska, แบบไทย, Українська, Việt Nam, বাঙালি, සිංහල, አማርኛ, Hmoob, မြန်မာ, Eesti keel, latviešu, Cрпски, Hrvatski, ქართული, ʻŌlelo Hawaiʻi, Cymraeg, Cebuano, Samoa, Kreyòl ayisyen, Føroyskt, Crnogorski, Azerbaijani, Euskara, Tagalog, Galego, Norsk Bokmål, فارسی, ਪੰਜਾਬੀ, shqiptare, Hայերեն, অসমীয়া, Aymara, Bamanankan, беларускі, bosanski, Corsu, ދިވެހި, Esperanto, Eʋegbe, Frisian, guarani, ગુજરાતી, Hausa, íslenskur, Igbo, Gaeilge, basa jawa, ಕನ್ನಡ, қазақ, ខ្មែរ, Kinyarwanda, Kurdî, Кыргызча, ພາສາລາວ, Lingala, Luganda, lëtzebuergesch, македонски, Malagasy, മലയാളം, Malti, Maori, मराठी, Монгол, नेपाली, Sea, ଓଡିଆ, Afaan Oromoo, پښتو, Runasimi, संस्कृत, Gàidhlig na h-Alba, Sesotho, Shona, سنڌي, Soomaali, basa Sunda, kiswahili, тоҷикӣ, தமிழ், Татар, తెలుగు, ትግሪኛ, Tsonga, Türkmenler, Ride, اردو, ئۇيغۇر, o'zbek, isiXhosa, יידיש, Yoruba, Zulu, भोजपुरी, डोगरी, कोंकणी, Kurdî, Krio, मैथिली, Meiteilon, Mizo tawng, Sepedi, Ilocano, دری.
-
-## Installation
-
-### Steps
-
-## Install Plugin
-
-Clone the contents of the repository into your apps directory and rename it to `nextcloudallinoneaccessibility`. 
+Clone the contents of the repository into your apps directory and rename it to `allinoneaccessibilityapp`. 
 
 ## Active and Configuration
 
 1. Go to the Admin Panel
-2. Go to the All in One Accessibility Plugin from header menu icon and follow the code integration steps.
+2. Go to the All in One Accessibility App from header menu icon and follow the code integration steps.
 3. Now configure All in One Accessibility the way you like. You can change the widget color & position.
-   
 
-## Live Demo
-https://nextcloud.skynettechnologies.us/
+**Visit the NextCloud Accessibility Improvements Demo to see how does it perform with improved accessibility features:**
 
-## CORS Policy Configuration
+<https://youtu.be/X70XtvGyvSs?si=RQpGHZS83ocQYqHV>
+
+### **CORS Policy Configuration**
 
 To avoid CORS policy issues, ensure the following URLs are allowed in your website. These URLs should be added to your CORS configuration or trusted domains list.
 
-| **Domain**                         | **Description**                              | **Usage**                        |
-|------------------------------------|----------------------------------------------|----------------------------------|
-| `https://*.skynettechnologies.com` | Skynet Technologies (Global Domain)          | API access and resources         |
-| `https://*.skynettechnologies.us`  | Skynet Technologies (US Domain)              | API access and resources         |
-| `https://*.googleapis.com`         | Google APIs                                  | Services like Fonts, Translation |
-| `https://*.gstatic.com`            | Fonts APIs                                   | Custom Fonts                     |
-| `https://vlibras.gov.br`           | VLibras - Brazilian Sign Language Service    | Sign Language                    |
+| **Domain** | **Description** | **Usage** |
+| --- | --- | --- |
+| https://\*.skynettechnologies.com | Skynet Technologies (Global Domain) | API access and resources |
+| https://\*.skynettechnologies.us | Skynet Technologies (US Domain) | API access and resources |
+| https://\*.googleapis.com | Google APIs | Services like Fonts, Translation |
+| https://\*.gstatic.com | Fonts APIs | Custom Fonts |
+| <https://vlibras.gov.br> | VLibras - Brazilian Sign Language Service | Sign Language |
 
+### **Instructions**
 
-## Instructions
+- Update your server's CORS configuration to include these URLs.
+- Ensure wildcard subdomains (\*) are supported where necessary.
+- Verify the application functionality by testing requests to these domains.
+- If issues persist, consult the documentation for CORS configuration guidance.
 
-1. Update your server's CORS configuration to include these URLs.
-2. Ensure wildcard subdomains (`*`) are supported where necessary.
-3. Verify the application functionality by testing requests to these domains.
-4. If issues persist, consult the documentation for CORS configuration guidance.
+### **Documentation**
 
-## Configuration
+- [**NextCloud Accessibility App**](https://www.skynettechnologies.com/all-in-one-accessibility)
+- **[How to install an Accessibility NextCloud EAA compliance app?](https://www.skynettechnologies.com/all-in-one-accessibility)**
+- [**NextCloud WCAG compliance accessibility - Features Guide**](https://www.skynettechnologies.com/sites/default/files/accessibility-widget-features-list.pdf)
 
-To configure the widget, access the Admin Panel and head to the **All in One Accessibility** menu in the dashboard. From there, you can register **[here](https://ada.skynettechnologies.us/trial-subscription)** with 10 Days free trial.
+**Submit a Support Request**
+Please visit our [**support page**](https://www.skynettechnologies.com/report-accessibility-problem) and fill out the form. Our team will get back to you as soon as possible.
 
-## Submit a Support Request
+**Send Us an Email**
+Alternatively, you can send an email to our support team: [**hello@skynettechnologies.com**](mailto:hello@skynettechnologies.com)
 
-Please visit our **[support page](https://www.skynettechnologies.com/report-accessibility-problem)** and fill out the form. Our team will get back to you as soon as possible.
+**Accessibility Paid Add-on Services**
+**[NextCloud manual accessibility audit](https://www.skynettechnologies.com/website-accessibility-audit)**
 
-## Send Us an Email
+- Enhance inclusivity and user experience by evaluating NextCloud website's accessibility by [web accessibility consultant](https://www.skynettechnologies.com/web-accessibility-consultant).
+- WCAG 2.0 / WCAG 2.1 / WCAG 2.2 Level AA conformance testing
+- Automated, semi-automated testing
+- Manual testing
+- Simple before-after UI/UX recommendations on how to fix the issues
+- Comprehensive audit report
 
-Alternatively, you can send an email to our support team:
-**[hello@skynettechnologies.com](mailto:hello@skynettechnologies.com)**
+**[NextCloud site manual accessibility remediation](https://www.skynettechnologies.com/full-website-accessibility-remediation)**
 
-## Accessibility Paid Add-on Services
+Enhance NextCloud website accessibility and inclusivity with our manual accessibility remediation add-on. This service includes fixing accessibility issues and thorough remediation of website manually. Our experts ensure accessibility with WCAG standards, improve user experience for those with disabilities, and provide a detailed report on the improvements made.
 
-### **[Manual Accessibility Audit Report](https://www.skynettechnologies.com/all-in-one-accessibility/addons#manual-accessibility-audit-report)**
+[**PDF/Document Accessibility Remediation**](https://www.skynettechnologies.com/pdf-accessibility-remediation)
 
-Enhance inclusivity and user experience by evaluating your website’s accessibility by accessibility experts.
-WCAG 2.0 / WCAG 2.1 / WCAG 2.2 Level AA conformance testing.
-Automated, semi-automated testing.
-Manual testing.
-Simple before-after UI/UX recommendations on how to fix the issues.
-Comprehensive audit report.
-
-### **[Manual Accessibility Remediation](https://www.skynettechnologies.com/all-in-one-accessibility/addons#manual-accessibility-remediation)**
-Enhance website accessibility and inclusivity with our Manual Accessibility Remediation add-on. This service includes fixing accessibility issues and thorough remediation of your website manually. Our experts ensure accessibility with WCAG standards, improve user experience for those with disabilities, and provide a detailed report on the improvements made.
-
-### **[PDF/Document Accessibility Remediation](https://www.skynettechnologies.com/all-in-one-accessibility/addons#pdf-document-remediation)**
 The PDF / Document Remediation provides a list of inaccessible PDFs and remediated PDFs from where you can request PDF remediation service.
- 
-### **[VPAT Report/Accessibility Conformance Report(ACR)](https://www.skynettechnologies.com/all-in-one-accessibility/addons#vpat-acr-report)**
+
+**[VPAT Report/Accessibility Conformance Report (ACR)](https://www.skynettechnologies.com/vpat-accessibility-conformance-report)**
+
 The Voluntary Product Accessibility Template (VPAT), also known as an ACR (Accessibility Conformance Report) starts with an audit and provides current details for an accessible website, application, or any other digital assets.
 
-## Accessibility Widget Paid Add-ons
+**Accessibility NextCloud Widget Paid Add-ons**
+[**White Label Accessibility**](https://www.skynettechnologies.com/all-in-one-accessibility/addons#accessibility-widget-add-ons)
 
-### **[White Label](https://www.skynettechnologies.com/all-in-one-accessibility/addons#accessibility-widget-add-ons)**
-Remove the Skynet technologies logo as well as all of the footer links, popups, report a problem link and more for full white label control.
+Remove the Skynet Technologies logo as well as all of the footer links, popups, report a problem link and more for full white label control.
 
-### **[Live Site Translations](https://www.skynettechnologies.com/all-in-one-accessibility/addons#accessibility-widget-add-ons)**
-Translate your site into over 190 languages instantly to enhance accessibility for non-native speakers, individuals with language acquisition difficulties, and those with learning disabilities.
+[**Instant live site translations**](https://www.skynettechnologies.com/all-in-one-accessibility/addons#accessibility-widget-add-ons) **for NextCloud sites**
 
-###  **[Modify Accessibility Menu](https://www.skynettechnologies.com/all-in-one-accessibility/addons#accessibility-widget-add-ons)**
-Build and fine-tune your widget with the Modify Menu option. Reorder, remove and restructure the widget buttons to fit your users’ specific accessibility needs.
+Translate NextCloud site into over 190 languages instantly to enhance accessibility for non-native speakers, individuals with language acquisition difficulties, and those with learning disabilities.
 
-## Accessibility Partnership Opportunities
+[**Modify Accessibility Menu**](https://www.skynettechnologies.com/all-in-one-accessibility/addons#accessibility-widget-add-ons) **for NextCloud websites**
 
-### **[Agencies Partnership](https://www.skynettechnologies.com/agency-partners)**
+Build and fine-tune widget with the Modify Menu option. Reorder, remove and restructure the widget buttons to fit users' specific accessibility needs.
 
-Partner with us as an agency to provide comprehensive accessibility solutions to your clients. Get access to exclusive resources, training, and support to help you implement and manage accessibility features effectively.
+**NextCloud Accessibility Partnership Opportunities**
+[**NextCloud accessibility agencies partnership**](https://www.skynettechnologies.com/agency-partners)
 
-### **[Affiliated Partnership](https://www.skynettechnologies.com/affiliate-partner)**
+Partner with us as an agency to provide comprehensive NextCloud ADA, EAA, WCAG accessibility solutions to clients. Get access to exclusive resources, training, and support to implement and manage accessibility features effectively.
 
-Join our affiliate program and earn commissions by promoting All in One Accessibility®. Share our Widget with your network and help businesses improve their website accessibility while generating revenue.
+[**NextCloud accessibility affiliate partnership**](https://www.skynettechnologies.com/affiliate-partner)
 
-For more details, Please visit **[Partnership Opportunities Page](https://www.skynettechnologies.com/partner-program)**
+Sign up for our affiliate program and earn commissions by promoting accessibility app. Share our widget with your network and help businesses improve their website accessibility while generating revenue.
+
+For more details, explore  [**NextCloud accessibility partnership opportunities**](https://www.skynettechnologies.com/partner-program)
 
 ## Screenshots
 
@@ -236,12 +173,11 @@ For more details, Please visit **[Partnership Opportunities Page](https://www.sk
 
 ## Video
 
-[![All in One Accessibility](https://img.youtube.com/vi/X70XtvGyvSs/0.jpg)](https://www.youtube.com/watch?v=X70XtvGyvSs)
+[![All in One Accessibility](https://img.youtube.com/vi/I-DjgZyleeI/0.jpg)](https://www.youtube.com/watch?v=I-DjgZyleeI)
 
-## Credits
+**Credits**
+This addon is developed and maintained by [website accessibility remediation company](https://www.skynettechnologies.com/) - Skynet Technologies USA LLC
 
-This addon is developed and maintained by **[Skynet Technologies USA LLC](https://www.skynettechnologies.com)**
+### **Current Maintainers**
 
-## Current Maintainers
-
-- **[Skynet Technologies USA LLC](https://github.com/skynettechnologies)**
+- [**Skynet Technologies USA LLC**](https://github.com/skynettechnologies)

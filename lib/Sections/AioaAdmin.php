@@ -1,5 +1,5 @@
 <?php
-namespace OCA\NextcloudAllInOneAccessibility\Sections;
+namespace OCA\AllInOneAccessibilityApp\Sections;
 
 use OCP\IL10N;
 use OCP\IURLGenerator;

@@ -1,7 +1,7 @@
 {
     "openapi": "3.0.3",
     "info": {
-        "title": "nextcloudallinoneaccessibility",
+        "title": "allinoneaccessibilityapp",
         "version": "0.0.1",
         "description": "All in one accessibility",
         "license": {
@@ -47,7 +47,7 @@
         }
     },
     "paths": {
-        "/ocs/v2.php/apps/nextcloudallinoneaccessibility/api": {
+        "/ocs/v2.php/apps/allinoneaccessibilityapp/api": {
             "get": {
                 "operationId": "api-index",
                 "summary": "An example API endpoint",

@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 namespace Controller;
 
-use OCA\NextcloudAllInOneAccessibility\AppInfo\Application;
-use OCA\NextcloudAllInOneAccessibility\Controller\ApiController;
+use OCA\AllInOneAccessibilityApp\AppInfo\Application;
+use OCA\AllInOneAccessibilityApp\Controller\ApiController;
 use OCP\IRequest;
 use PHPUnit\Framework\TestCase;
 

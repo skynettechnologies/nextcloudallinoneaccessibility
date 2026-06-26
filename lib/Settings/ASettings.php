@@ -6,10 +6,10 @@ declare(strict_types=1);
  * SPDX-FileCopyrightText: 2019 Nextcloud GmbH and Nextcloud contributors
  * SPDX-License-Identifier: AGPL-3.0-or-later
  */
-namespace OCA\NextcloudAllInOneAccessibility\Settings;
+namespace OCA\AllInOneAccessibilityApp\Settings;
 
-use OCA\NextcloudAllInOneAccessibility\AppInfo\Application;
-use OCA\NextcloudAllInOneAccessibility\Manager;
+use OCA\AllInOneAccessibilityApp\AppInfo\Application;
+use OCA\AllInOneAccessibilityApp\Manager;
 use OCP\AppFramework\Http\TemplateResponse;
 use OCP\AppFramework\Services\IInitialState;
 use OCP\EventDispatcher\IEventDispatcher;
@@ -17,13 +17,13 @@ use OCP\IConfig;
 use OCP\IL10N;
 use OCP\IURLGenerator;
 use OCP\Settings\ISettings;
-use OCP\NextcloudAllInOneAccessibility\Events\LoadSettingsScriptsEvent;
-use OCP\NextcloudAllInOneAccessibility\ICheck;
-use OCP\NextcloudAllInOneAccessibility\IComplexOperation;
-use OCP\NextcloudAllInOneAccessibility\IEntity;
-use OCP\NextcloudAllInOneAccessibility\IEntityEvent;
-use OCP\NextcloudAllInOneAccessibility\IOperation;
-use OCP\NextcloudAllInOneAccessibility\ISpecificOperation;
+use OCP\AllInOneAccessibilityApp\Events\LoadSettingsScriptsEvent;
+use OCP\AllInOneAccessibilityApp\ICheck;
+use OCP\AllInOneAccessibilityApp\IComplexOperation;
+use OCP\AllInOneAccessibilityApp\IEntity;
+use OCP\AllInOneAccessibilityApp\IEntityEvent;
+use OCP\AllInOneAccessibilityApp\IOperation;
+use OCP\AllInOneAccessibilityApp\ISpecificOperation;
 
 abstract class ASettings implements ISettings {
 	public function __construct(
@@ -45,7 +45,7 @@ abstract class ASettings implements ISettings {
 	public function getForm(): TemplateResponse {
 		// @deprecated in 20.0.0: retire this one in favor of the typed event
 		$this->eventDispatcher->dispatch(
-			'OCP\NextcloudAllInOneAccessibility::loadAdditionalSettingScripts',
+			'OCP\AllInOneAccessibilityApp::loadAdditionalSettingScripts',
 			new LoadSettingsScriptsEvent()
 		);
 		$this->eventDispatcher->dispatchTyped(new LoadSettingsScriptsEvent());
@@ -80,7 +80,7 @@ abstract class ASettings implements ISettings {
 
 		$this->initialStateService->provideInitialState(
 			'doc-url',
-			$this->urlGenerator->linkToDocs('admin-NextcloudAllInOneAccessibility')
+			$this->urlGenerator->linkToDocs('admin-AllInOneAccessibilityApp')
 		);
 
 		return new TemplateResponse(Application::APP_ID, 'settings', [], 'blank');

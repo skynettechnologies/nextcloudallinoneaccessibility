@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace OCA\NextcloudAllInOneAccessibility\AppInfo;
+namespace OCA\AllInOneAccessibilityApp\AppInfo;
 use OC\Security\CSP\ContentSecurityPolicy;
 use OC\Security\CSP\ContentSecurityPolicyNonceManager;
 use OCP\Accounts\IAccount;
@@ -18,7 +18,7 @@ use OCP\Server;
 use OCP\Util;
 
 class Application extends App implements IBootstrap {
-	public const APP_ID = 'nextcloudallinoneaccessibility';
+	public const APP_ID = 'allinoneaccessibilityapp';
 
 	/** @psalm-suppress PossiblyUnusedMethod */
 	public function __construct() {
@@ -58,7 +58,7 @@ class Application extends App implements IBootstrap {
 		Util::addHeader(
             'script',
             [
-                'src' => $websiteUrl.'/apps/nextcloudallinoneaccessibility/src/js/aioawidget.js',
+                'src' => $websiteUrl.'/apps/allinoneaccessibilityapp/src/js/aioawidget.js',
                 'nonce' => $contentSecurityPolicyNonceManager->getNonce()
             ], ''
         );

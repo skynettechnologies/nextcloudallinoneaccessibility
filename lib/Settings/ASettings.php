@@ -6,10 +6,10 @@ declare(strict_types=1);
  * SPDX-FileCopyrightText: 2019 Nextcloud GmbH and Nextcloud contributors
  * SPDX-License-Identifier: AGPL-3.0-or-later
  */
-namespace OCA\AllInOneAccessibilityApp\Settings;
+namespace OCA\SkynetTechnologiesAllInOneAccessibility\Settings;
 
-use OCA\AllInOneAccessibilityApp\AppInfo\Application;
-use OCA\AllInOneAccessibilityApp\Manager;
+use OCA\SkynetTechnologiesAllInOneAccessibility\AppInfo\Application;
+use OCA\SkynetTechnologiesAllInOneAccessibility\Manager;
 use OCP\AppFramework\Http\TemplateResponse;
 use OCP\AppFramework\Services\IInitialState;
 use OCP\EventDispatcher\IEventDispatcher;
@@ -17,13 +17,13 @@ use OCP\IConfig;
 use OCP\IL10N;
 use OCP\IURLGenerator;
 use OCP\Settings\ISettings;
-use OCP\AllInOneAccessibilityApp\Events\LoadSettingsScriptsEvent;
-use OCP\AllInOneAccessibilityApp\ICheck;
-use OCP\AllInOneAccessibilityApp\IComplexOperation;
-use OCP\AllInOneAccessibilityApp\IEntity;
-use OCP\AllInOneAccessibilityApp\IEntityEvent;
-use OCP\AllInOneAccessibilityApp\IOperation;
-use OCP\AllInOneAccessibilityApp\ISpecificOperation;
+use OCP\SkynetTechnologiesAllInOneAccessibility\Events\LoadSettingsScriptsEvent;
+use OCP\SkynetTechnologiesAllInOneAccessibility\ICheck;
+use OCP\SkynetTechnologiesAllInOneAccessibility\IComplexOperation;
+use OCP\SkynetTechnologiesAllInOneAccessibility\IEntity;
+use OCP\SkynetTechnologiesAllInOneAccessibility\IEntityEvent;
+use OCP\SkynetTechnologiesAllInOneAccessibility\IOperation;
+use OCP\SkynetTechnologiesAllInOneAccessibility\ISpecificOperation;
 
 abstract class ASettings implements ISettings {
 	public function __construct(
@@ -45,7 +45,7 @@ abstract class ASettings implements ISettings {
 	public function getForm(): TemplateResponse {
 		// @deprecated in 20.0.0: retire this one in favor of the typed event
 		$this->eventDispatcher->dispatch(
-			'OCP\AllInOneAccessibilityApp::loadAdditionalSettingScripts',
+			'OCP\SkynetTechnologiesAllInOneAccessibility::loadAdditionalSettingScripts',
 			new LoadSettingsScriptsEvent()
 		);
 		$this->eventDispatcher->dispatchTyped(new LoadSettingsScriptsEvent());
@@ -80,7 +80,7 @@ abstract class ASettings implements ISettings {
 
 		$this->initialStateService->provideInitialState(
 			'doc-url',
-			$this->urlGenerator->linkToDocs('admin-AllInOneAccessibilityApp')
+			$this->urlGenerator->linkToDocs('admin-SkynetTechnologiesAllInOneAccessibility')
 		);
 
 		return new TemplateResponse(Application::APP_ID, 'settings', [], 'blank');

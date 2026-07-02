@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	  xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
-	<id>allinoneaccessibilityapp</id>
+	<id>skynettechnologiesallinoneaccessibility</id>
 	<name>All In One Accessibility</name>
 	<summary>All in one accessibility</summary>
 	<description>All in one accessibility</description>
 	<version>1.0.0</version>
 	<licence>agpl</licence>
 	<author mail="developer3@skynettechnologies.com" homepage="https://www.skynettechnologies.com/">Skynet Technologies USA LLC</author>
-	<namespace>AllInOneAccessibilityApp</namespace>
+	<namespace>SkynetTechnologiesAllInOneAccessibility</namespace>
 	<types>
 		<filesystem/>
 	</types>
@@ -19,15 +19,15 @@
 	</dependencies>
 	<navigations>
 		<navigation>
-			<id>allinoneaccessibilityapp</id>
+			<id>skynettechnologiesallinoneaccessibility</id>
 			<name>All In One Accessibility</name>
-			<route>allinoneaccessibilityapp.page.index</route>
+			<route>skynettechnologiesallinoneaccessibility.page.index</route>
 			<icon>app.svg</icon>
 			<type>link</type>
 		</navigation>
 	</navigations>
 	<settings>
-		<admin>OCA\AllInOneAccessibilityApp\Settings\Admin</admin>
-		<admin-section>OCA\AllInOneAccessibilityApp\Settings\Section</admin-section>
+		<admin>OCA\SkynetTechnologiesAllInOneAccessibility\Settings\Admin</admin>
+		<admin-section>OCA\SkynetTechnologiesAllInOneAccessibility\Settings\Section</admin-section>
 	</settings>
 </info>

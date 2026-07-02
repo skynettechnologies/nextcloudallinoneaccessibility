@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 namespace Controller;
 
-use OCA\AllInOneAccessibilityApp\AppInfo\Application;
-use OCA\AllInOneAccessibilityApp\Controller\ApiController;
+use OCA\SkynetTechnologiesAllInOneAccessibility\AppInfo\Application;
+use OCA\SkynetTechnologiesAllInOneAccessibility\Controller\ApiController;
 use OCP\IRequest;
 use PHPUnit\Framework\TestCase;
 

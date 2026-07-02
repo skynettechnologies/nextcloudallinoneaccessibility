@@ -1,6 +1,6 @@
 <template>
 	<NcAppContent>
-		<div id="allinoneaccessibilityapp">
+		<div id="skynettechnologiesallinoneaccessibility">
 			<h1>Hello world!</h1>
 		</div>
 	</NcAppContent>
@@ -18,7 +18,7 @@ export default {
 </script>
 
 <style scoped lang="scss">
-#allinoneaccessibilityapp {
+#skynettechnologiesallinoneaccessibility {
 	display: flex;
 	justify-content: center;
 	margin: 16px;

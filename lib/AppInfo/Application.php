@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace OCA\AllInOneAccessibilityApp\AppInfo;
+namespace OCA\SkynetTechnologiesAllInOneAccessibility\AppInfo;
 use OC\Security\CSP\ContentSecurityPolicy;
 use OC\Security\CSP\ContentSecurityPolicyNonceManager;
 use OCP\Accounts\IAccount;
@@ -18,7 +18,7 @@ use OCP\Server;
 use OCP\Util;
 
 class Application extends App implements IBootstrap {
-	public const APP_ID = 'allinoneaccessibilityapp';
+	public const APP_ID = 'skynettechnologiesallinoneaccessibility';
 
 	/** @psalm-suppress PossiblyUnusedMethod */
 	public function __construct() {
@@ -58,7 +58,7 @@ class Application extends App implements IBootstrap {
 		Util::addHeader(
             'script',
             [
-                'src' => $websiteUrl.'/apps/allinoneaccessibilityapp/src/js/aioawidget.js',
+                'src' => $websiteUrl.'/apps/skynettechnologiesallinoneaccessibility/src/js/aioawidget.js',
                 'nonce' => $contentSecurityPolicyNonceManager->getNonce()
             ], ''
         );
